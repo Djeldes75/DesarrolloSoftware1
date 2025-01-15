@@ -1,3 +1,5 @@
 # ProyectoFinal
 
- Contiene dos proyectos:Sistema de Gestión de Inventario y Sistema de Reservas de Biblioteca.
+ Contiene dos proyectos:
+ 1. Sistema de Gestión de Inventario.
+ 2. Sistema de Reservas de Biblioteca.
